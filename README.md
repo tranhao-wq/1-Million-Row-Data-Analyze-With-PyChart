@@ -1,4 +1,21 @@
-<img width="720" height="376" alt="image" src="https://github.com/user-attachments/assets/947526a8-90e6-4914-b7cd-4f3d9e03b2fb" /># 1-Million-Row-Data-Analyze-With-PyChart
+# 1-Million-Row-Data-Analyze-With-PyChart
+## Key Features:
+
+- Synthetic galaxy star data with attributes such as temperature, luminosity, radius, magnitude, and distance.
+
+- Over 18 types of charts: histogram, scatter, box, violin, heatmap, pairplot, contour, 3D surface, radar, parallel coordinates, dendrogram, ridgeline, Sankey, bubble, and more.
+
+- Fully written in Python using libraries like matplotlib, seaborn, plotly, pandas, and scikit-learn.
+
+- Includes animated scatter plot (Matplotlib FuncAnimation).
+
+- Clean, reproducible script for further exploration or adaptation to real astronomy datasets.
+
+- Perfect for learning or demonstrating advanced data visualization capabilities in Python.
+
+-----------------
+
+<img width="720" height="376" alt="image" src="https://github.com/user-attachments/assets/947526a8-90e6-4914-b7cd-4f3d9e03b2fb" />
 <img width="686" height="369" alt="image" src="https://github.com/user-attachments/assets/1ab62759-acc0-4a9c-8505-8ab073662f8b" />
 <img width="649" height="355" alt="image" src="https://github.com/user-attachments/assets/7c306739-8e91-495e-902e-189bf3ace642" />
 <img width="674" height="372" alt="image" src="https://github.com/user-attachments/assets/f1f16255-311b-4136-9efe-f624c87d30c0" />
